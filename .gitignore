@@ -1,0 +1,89 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+[Releases]/
+[Records]/
+
+# Rider / VS / JetBrains #
+.vs/
+.idea/
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Unity auto-generated solution/project files #
+*.csproj
+*.unityproj
+*.sln
+*.sln.docstates
+
+# Crash & Debug #
+*.stackdump
+*.log
+
+# Other #
+sysinfo.txt
+*.apk
+*.aab
+
+# Build artifacts #
+*.app
+*.exe
+*.xcodeproj
+*.xcworkspace
+*.ipa
+
+# Cache #
+*.cache
+*.prefab.unity2017
+*.AssetImportTemp/
+
+# Unity Cloud Build #
+/[Uu]serSettings/UnityConnectSettings.asset
+
+# Package Manager #
+/[Pp]ackages/com.unity.package-manager*
+
+# Gradle / Android #
+.gradle/
+*.gradle
+*.keystore
+*.jks
+*.dex
+
+# iOS #
+DerivedData/
+*.xcuserstate
+*.xcscmblueprint
+
+# TextMesh Pro #
+[Tt]extMesh Pro/
+
+# Addressables #
+/[Ll]ibrary/com.unity.addressables/
+
+/StreamingAssets/aa/
+
+# Builds and Asset Bundles #
+[Bb]uilds/
+[Bb]undles/
+*.bundle
+
+# Others #
+*.swp
+*.db
+.DS_Store
